@@ -2,4 +2,4 @@
 
 # example
 
-echo " hello shell script and learing"
+echo " hello shell script and learing this is "
